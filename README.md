@@ -1,5 +1,7 @@
 # Shopping Trends Warehouse Predictor
 
+Run the app: https://dwm-ca3-group12.streamlit.app/
+
 A Streamlit app for a data warehousing course, predicting purchase categories using a Random Forest model with a form-based interface.
 
 ## Setup
